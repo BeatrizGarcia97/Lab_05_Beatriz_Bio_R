@@ -1,0 +1,2 @@
+# Lab_05_Beatriz_Bio_R
+Laboratorio de Bioestadistica con R por Beatriz García 
